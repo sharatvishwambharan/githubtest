@@ -1,1 +1,1 @@
-# githubtest
+# simple-java-maven-app
